@@ -1,5 +1,5 @@
 ### Hi there   
-I'm Mayse (she/her) — a front-end developer in the making 🌱  
+I'm Mayse (she/her), a front-end developer in the making 🌱  
 Passionate about tech, learning, and creating with a touch of creativity (and caffeine).
 
 ---
