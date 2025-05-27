@@ -16,7 +16,7 @@ Passionate about tech, learning, and creating with a touch of creativity (and ca
 
 ## 🧩 Projects
 - 🎨 [Portfolio Website](https://github.com/maysecosmo/portfolio) *(soon)*
-- 📝 [Formulário de Contato](https://github.com/maysecosmo/formulario-html) *(soon)*
+- 📝 [Contact Form](https://github.com/maysecosmo/formulario-html) *(soon)*
 
 - ---
 
