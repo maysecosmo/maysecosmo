@@ -1,4 +1,4 @@
-### 
+### HI, THERE
 I'm Mayse (she/her), a front-end developer in the making 🌱  
 Passionate about tech, learning, and creating with a touch of creativity (and caffeine)
 
@@ -11,12 +11,6 @@ Passionate about tech, learning, and creating with a touch of creativity (and ca
 - 🧠 Moving into tech after years working with learning content and education projects  
 - 💜 Interested in tech for education, creative coding and visual interfaces  
 - 📍 Based in Pernambuco, Brazil
-
----
-
-## 🧩 Projects
-- 🎨 [Portfolio Website](https://github.com/maysecosmo/portfolio) *(soon)*  
-- 📝 [Contact Form](https://github.com/maysecosmo/formulario-html) *(soon)*  
 
 ---
 
