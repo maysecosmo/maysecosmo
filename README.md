@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/maysecosmo/assets/blob/main/banner-hi-there.gif.png?raw=true" alt="HI, THERE banner" />
-</p>
-
-### Hi there  
+### 
 I'm Mayse (she/her), a front-end developer in the making 🌱  
 Passionate about tech, learning, and creating with a touch of creativity (and caffeine)
 
