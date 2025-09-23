@@ -1,22 +1,21 @@
 ### HI, THERE
-I'm Mayse (she/her), a front-end developer in the making 🌱  
-Passionate about tech, learning, and creating with a touch of creativity (and caffeine)
-
-#### 🧮 learning one line of code at a time ✨
+Sou Mayse (ela/dela), em transição para a área de tecnologia e atualmente focada em desenvolvimento front-end 🌱  
+Apaixonada por aprender, criar e explorar como a tecnologia pode transformar a educação.  
 
 ---
 
-## 👩‍💻 About Me
-- 💻 Currently learning HTML, CSS, JavaScript  
-- 🧠 Moving into tech after years working with learning content and education projects  
-- 💜 Interested in tech for education, creative coding and visual interfaces  
-- 📍 Based in Pernambuco, Brazil
+## 👩‍💻 Sobre mim  
+- 💻 Estudando **Programação Fullstack na Infinity School**  
+- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas na Unifavip Wyden**  
+- 🧠 Em transição para tech após anos trabalhando com **conteúdo educacional e projetos editoriais**  
+- 💜 Interesse em **tecnologia para educação, creative coding e interfaces visuais**  
+
 
 ---
 
-## ✨ Fun Fact  
-Books, a good playlist, and some special coffee: my favorite combo 📚🎶☕
+## ✨ Curiosidade  
+Meus dias favoritos envolvem livros, uma boa playlist e café especial 📚🎶☕  
 
 ---
 
-### 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/maysecosmo) 
+### 🔗 Vamos nos conectar pelo [LinkedIn](https://www.linkedin.com/in/maysecosmo)  
