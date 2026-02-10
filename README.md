@@ -2,7 +2,7 @@
 
 Sou uma **Desenvolvedora Full Stack em formação** e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por criar soluções, especialmente quando a **Educação** encontra a **Tecnologia**. 🌱
 
-Estou em transição de carreira após 8 anos de experiência **Editorial**, incluindo coordenação trazendo para o código uma bagagem sólida de organização, documentação técnica e liderança ágil.
+Estou em transição de carreira após 8 anos de experiência **Editorial**, incluindo coordenação, trazendo para o código uma bagagem sólida de organização, documentação técnica e liderança ágil.
 
 ---
 
