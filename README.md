@@ -10,8 +10,8 @@ Estou em transição de carreira após 8 anos de experiência **Editorial**, inc
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** (UniFavip Wyden).
 - 🚀 Estudando **Desenvolvimento Full Stack** na **Infinity School**.
-- ☕ Focada no ecossistema **Back-end** com **Python** 🐍 e **Java**.
-- 💡 Participante do **Bootcamp Accenture - Java & Cloud** na DIO.
+- ☕ Focada no ecossistema **Back-end** com **Python** 
+- 💡 Participante do **DIO Campus Expert** Turma 15.
 - 📚 Autora do livro *"Linguagem e Racismo"* e apaixonada por tornar a tecnologia acessível.
 
 ---
